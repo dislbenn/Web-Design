@@ -1,0 +1,123 @@
+#banner{
+    border-bottom: none;
+}
+#exploreHeader{
+    margin-top: 14%;
+    font-size: 2vw;
+}
+#highlights{
+    width: 100%;
+}
+#purchaseHeader{
+    text-align: center;
+    font-size: 1vw;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5%;
+}
+#redBanner{
+    width: 100%;
+    background-image: url("images/Images/red_banner_top.gif");
+}
+#toyBanner{
+    width: 50%;
+    border-bottom: none;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    border-bottom: 2px solid crimson;
+}
+.active{
+    border-bottom: 3px solid crimson;
+}
+.active:hover{
+    border-bottom: 3px solid crimson;
+}
+body{
+    margin: 0%;
+}
+div.scrollMenu{
+    overflow: auto;
+    white-space: nowrap;
+}
+.cars_minivan{
+    width: 100%;
+    position: relative;
+}
+.cars_minivan:hover{
+    transform: scale(1.1);
+    border-bottom: none;
+}
+.trucks{
+    width: 100%;
+    position: relative;
+}
+.trucks:hover{
+    transform: scale(1.1);
+    border-bottom: none;
+}
+.crossover_suvs{
+    width: 100%;
+    position: relative;
+}
+.crossover_suvs:hover{
+    transform: scale(1.1);
+    border-bottom: none;
+}
+.hybrids{
+    width: 100%;
+    position: relative;
+}
+.hybrids:hover{
+    transform: scale(1.1);
+    border-bottom: none;
+}
+.upcoming{
+    width: 100%;
+    position: relative;
+}
+.upcoming:hover{
+    transform: scale(1.1);
+    border-bottom: none;
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table.carTitles{
+    text-align: center;
+    font-size: 1vw;
+    width: 60%;
+}
+table.carDetails{
+    font-size: 1vw;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%
+}
+table.minivansDetails{
+    font-size: 1vw;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 200%
+}
+table.trucksDetails{
+    font-size: 1vw;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 40%;
+}
+table.crossoverDetails{
+    font-size: 1vw;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 200%;
+}
+table.hybridsDetails{
+    font-size: 1vw;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+}
+table.upcomingDetails{
+    font-size: 1vw;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 20%;
+}
